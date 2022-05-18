@@ -40,3 +40,23 @@ h6 {
   background-color: rgb(231, 227, 227);
   text-align: center;
 }
+
+// Place these anchor pseudo-code rules into each child css file!
+
+a:link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(228, 80, 17);
+}
+
+a:hover {
+  font-weight: bold;
+  color: rgb(13, 126, 9);
+}
+
+a:active {
+  font-style: italic;
+}
