@@ -1,0 +1,42 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: bold;
+  color: rgb(13, 62, 212);
+  text-transform: uppercase;
+}
+
+/* .my-portrait {
+  border-top: 15px soid rgb(13, 62, 212);
+} */
+
+.main-header {
+  font-size: 20px;
+}
+
+.my-background {
+  text-align: center;
+}
+
+.main-header-all {
+  border: 2px solid rgb(13, 62, 212);
+  background-color: rgb(231, 227, 227);
+  text-align: center;
+}
